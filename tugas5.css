@@ -1,0 +1,18 @@
+header {
+    background-color: black;
+    text-transform: uppercase;
+}
+a:link{
+    color: white;
+}
+
+main {
+    background-image: url(slider.jpg) non-repeat;
+    font-size: 13px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
